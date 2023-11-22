@@ -22,9 +22,9 @@ pip install colorana
 git https://github.com/ArminK18/Wordle.git
 ```
 
-2. Run the script `wordle.py`:
+2. Run the script `wordleHR.py`:
 ```bash
-python wordle.py
+python wordleHR.py
 ```
 
 3. Play!

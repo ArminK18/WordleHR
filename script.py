@@ -1,14 +1,5 @@
-def get_words_from_file(file_path):
-    words = []
+def check_letter(given_word, word_letters):
+    for given, word in zip(given_word, word_letters):
+        print(given, word)
 
-    with open(file_path, 'r') as file:
-        for line in file:
-            words_in_line = line.strip().split()
-            words.extend(words_in_line)
-
-    return words
-
-file_path = 'words.txt'
-word_list = get_words_from_file(file_path)
-
-print(word_list)
+check_letter('apasi', ['a', 'p', 'a', 's', 'i'])

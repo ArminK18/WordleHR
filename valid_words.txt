@@ -173,7 +173,6 @@ balon
 balti
 banda
 baner
-banja
 banka
 banov
 barak
@@ -225,8 +224,6 @@ begov
 begum
 behar
 belić
-belja
-beljo
 belot
 benav
 benko
@@ -257,7 +254,6 @@ bijes
 bikov
 bileć
 bilin
-bilje
 bingo
 binom
 biota
@@ -286,7 +282,6 @@ bičaš
 bičić
 bičji
 bjeha
-bjelj
 bjeti
 blagi
 blago
@@ -297,7 +292,6 @@ blind
 blizu
 bliže
 bliži
-bljed
 blues
 bluna
 bluza
@@ -328,7 +322,6 @@ bokor
 bokun
 bolan
 bolid
-bolji
 bolni
 bolno
 bolta
@@ -374,7 +367,6 @@ braga
 brama
 brana
 brand
-branj
 brati
 brava
 bravo
@@ -391,15 +383,11 @@ breče
 bređi
 brica
 brico
-bridž
 briga
-brinj
 brioš
 briti
 brkan
-brlja
 brlog
-brnja
 bronh
 brtva
 bruka
@@ -417,7 +405,6 @@ budan
 budim
 budni
 budno
-budža
 bugar
 buhar
 buhav
@@ -437,7 +424,6 @@ bulov
 bunar
 bunda
 bunge
-bunja
 burad
 burag
 buran
@@ -517,8 +503,6 @@ cikla
 cikot
 cikći
 cilik
-cilji
-cilju
 ciman
 cimer
 cimet
@@ -541,8 +525,6 @@ cosac
 cotav
 crkva
 crnac
-crnja
-crnji
 crnka
 crnom
 crpac
@@ -563,7 +545,6 @@ cucak
 cucla
 cukar
 cukor
-cunja
 curij
 curin
 curka
@@ -576,18 +557,12 @@ daire
 dakle
 dalaj
 dalek
-dalja
-dalje
-dalji
 dalma
 damin
 danak
 danas
 danik
 danil
-danje
-danji
-danju
 danka
 dante
 darga
@@ -657,7 +632,6 @@ dimni
 dinam
 dinar
 dingo
-dinja
 dioba
 dioda
 dioni
@@ -713,12 +687,10 @@ dolap
 dolar
 dolet
 dolit
-dolje
 dolus
 domar
 domet
 donat
-donji
 donle
 donor
 donos
@@ -763,7 +735,6 @@ dreka
 drhav
 drift
 driti
-drlja
 drmeš
 droca
 droga
@@ -809,12 +780,8 @@ duhač
 duhov
 dukat
 dulek
-dulja
-dulji
 dulum
 dundo
-dunja
-dunji
 dupin
 dupke
 dupli
@@ -839,9 +806,6 @@ dvojb
 dvoje
 dvoji
 dvoum
-džaba
-džina
-džins
 edikt
 efekt
 efrit
@@ -1034,7 +998,6 @@ gamad
 ganga
 gango
 ganit
-ganje
 ganut
 garan
 garav
@@ -1062,7 +1025,6 @@ gačac
 gađan
 gašen
 gažen
-gedžo
 gegav
 gejša
 gekon
@@ -1097,7 +1059,6 @@ glede
 gleđa
 glina
 gliom
-gljiv
 globa
 glosa
 gluhi
@@ -1109,12 +1070,6 @@ glupo
 gluši
 gmiža
 gnajs
-gnjat
-gnjav
-gnjev
-gnjil
-gnjio
-gnjus
 gnoma
 gnuov
 godov
@@ -1124,8 +1079,6 @@ golan
 golać
 golem
 golet
-golji
-goljo
 golog
 golot
 golub
@@ -1227,8 +1180,6 @@ gumbe
 gumbi
 gumen
 gumno
-gunja
-gunji
 gupac
 guran
 gurav
@@ -1255,7 +1206,6 @@ gušći
 gušče
 gužva
 gužvo
-gvalj
 gverc
 gvozd
 gđica
@@ -1268,8 +1218,6 @@ haker
 halfa
 halid
 halit
-halja
-halji
 halma
 halva
 hamas
@@ -1288,7 +1236,6 @@ hašiš
 haški
 hekto
 helij
-heljd
 henin
 henri
 heroj
@@ -1322,13 +1269,10 @@ hitri
 hitro
 hlača
 hlače
-hljeb
-hmelj
 hoana
 hoane
 hodač
 hodni
-hodža
 hokej
 hokus
 homer
@@ -1338,7 +1282,6 @@ horor
 hotel
 hoćim
 hrana
-hranj
 hrast
 hrbat
 hrdan
@@ -1358,8 +1301,6 @@ hrčak
 hrčki
 hrđav
 hujan
-hulja
-hulji
 humac
 humak
 human
@@ -1414,7 +1355,6 @@ imela
 imele
 imeni
 imidi
-imidž
 imini
 imuni
 imutk
@@ -1447,7 +1387,6 @@ iskan
 iskap
 iskaz
 iskez
-isklj
 iskon
 iskop
 iskra
@@ -1512,7 +1451,6 @@ izvoz
 ičati
 ičiji
 išler
-ižinj
 jadac
 jadan
 jadni
@@ -1533,7 +1471,6 @@ jamac
 jaman
 jamba
 janin
-janje
 jarac
 jarad
 jarak
@@ -1676,7 +1613,6 @@ kalež
 kalfa
 kalif
 kalij
-kalja
 kalta
 kalup
 kalus
@@ -1691,7 +1627,6 @@ kanal
 kanap
 kanat
 kanda
-kanje
 kanon
 kanta
 kapak
@@ -1821,14 +1756,10 @@ klinč
 klisa
 kliza
 kliše
-kljun
-kljus
-ključ
 kloak
 klopa
 klupa
 kneza
-knjig
 koati
 kobac
 koban
@@ -1864,9 +1795,6 @@ kolač
 kolaž
 kolet
 kolin
-kolja
-kolje
-kolji
 kolni
 kolon
 kolor
@@ -1884,7 +1812,6 @@ komut
 konac
 konak
 konav
-konji
 konop
 konti
 konto
@@ -1955,10 +1882,8 @@ kožun
 kožus
 kraft
 kraju
-kralj
 krama
 kramp
-kranj
 krast
 krati
 kraul
@@ -1971,7 +1896,6 @@ krađi
 krbav
 krcaj
 krcat
-krdža
 kreda
 kredo
 kreja
@@ -1995,9 +1919,6 @@ krmen
 krmiv
 krmni
 krmom
-krnja
-krnje
-krnji
 kroki
 krona
 kroza
@@ -2035,7 +1956,6 @@ kršen
 kršje
 krški
 kršni
-kuanj
 kuban
 kubik
 kubni
@@ -2056,7 +1976,6 @@ kukov
 kukoč
 kukuc
 kulen
-kulja
 kulon
 kuluk
 kumen
@@ -2066,8 +1985,6 @@ kumov
 kumul
 kumče
 kunić
-kunja
-kunji
 kupac
 kupan
 kupać
@@ -2250,7 +2167,6 @@ linka
 lipid
 lipik
 lipin
-lipnj
 lipom
 lipov
 lirik
@@ -2282,19 +2198,6 @@ lišce
 lišen
 lišće
 lišći
-ljaga
-ljage
-ljama
-ljepš
-ljeti
-ljeto
-ljiga
-ljuba
-ljudi
-ljulj
-ljuti
-ljuto
-ljući
 lobor
 loger
 logik
@@ -2321,7 +2224,6 @@ lomni
 lomno
 lomot
 lonac
-lonja
 lopov
 lopoč
 lopta
@@ -2361,8 +2263,6 @@ lulaš
 lumen
 lumin
 lunar
-lunja
-lunje
 lupan
 lupar
 lupač
@@ -2407,8 +2307,6 @@ malaj
 maler
 malik
 malin
-malja
-malje
 malka
 malne
 malta
@@ -2421,8 +2319,6 @@ mamut
 mamuz
 mango
 manić
-manje
-manji
 manka
 maona
 maran
@@ -2489,7 +2385,6 @@ mekše
 mekši
 melem
 melez
-melja
 melon
 melos
 memli
@@ -2522,8 +2417,6 @@ mider
 migni
 mijau
 mijeh
-milja
-milje
 miloš
 miner
 minij
@@ -2571,8 +2464,6 @@ mlađi
 mliko
 mlina
 mlivo
-mljac
-mljet
 mnogi
 mnogo
 množe
@@ -2641,7 +2532,6 @@ mrkač
 mrkli
 mrkva
 mrkve
-mrlja
 mrmor
 mrmot
 mrska
@@ -2669,12 +2559,10 @@ mulat
 mulin
 mulit
 mulić
-mulja
 multi
 mumps
 munar
 mungo
-munja
 murva
 musav
 music
@@ -2839,7 +2727,6 @@ nikal
 nikud
 nimac
 nimfa
-ninja
 nisak
 nisam
 niska
@@ -2853,12 +2740,6 @@ nizak
 nizan
 nišan
 ništa
-njama
-njega
-njiva
-njive
-njoka
-njutn
 nogar
 nojev
 nokat
@@ -2989,14 +2870,10 @@ odvoz
 odvrg
 odziv
 odšit
-odžak
-oganj
 oglas
 oglav
 ogled
 ogluh
-ognja
-ognje
 ogreb
 oholi
 oholo
@@ -3016,7 +2893,6 @@ oktan
 oktav
 oktet
 okuka
-okunj
 okvir
 olako
 oleum
@@ -3167,7 +3043,6 @@ ovuda
 ovčar
 ovčas
 ovčji
-ozalj
 ozdol
 ozimi
 očale
@@ -3207,7 +3082,6 @@ pamuk
 panam
 panda
 panel
-panje
 panoi
 panta
 panus
@@ -3397,11 +3271,6 @@ pleća
 plima
 plise
 plići
-pljas
-pljen
-pljes
-pljev
-pljus
 ploha
 ploča
 pluto
@@ -3450,8 +3319,6 @@ polio
 polip
 polis
 polit
-polja
-polje
 polka
 polni
 polog
@@ -3542,7 +3409,6 @@ požen
 požet
 požun
 pragm
-pranj
 prasa
 prase
 prati
@@ -3587,9 +3453,6 @@ priče
 prišt
 prkos
 prlić
-prnja
-prnje
-prnji
 proba
 proha
 proja
@@ -3684,7 +3547,6 @@ radić
 radič
 radni
 radon
-radža
 rafal
 ragbi
 rahao
@@ -3697,13 +3559,11 @@ rakel
 rakis
 rakov
 rakun
-ralje
 rampa
 ramus
 ranac
 ranar
 ranik
-ranje
 ranka
 rapir
 rarog
@@ -3891,7 +3751,6 @@ ročno
 rođac
 rođak
 rođen
-rtanj
 rubac
 ruban
 rubač
@@ -3906,7 +3765,6 @@ rujan
 rujni
 rukav
 rulet
-rulja
 rulni
 rumba
 rumen
@@ -3964,7 +3822,6 @@ sanac
 sanak
 sandi
 sanen
-sanja
 sanke
 sankt
 santa
@@ -4012,7 +3869,6 @@ sekte
 selac
 selam
 selen
-seljo
 semem
 semit
 semiš
@@ -4057,9 +3913,6 @@ silos
 silur
 sinac
 singl
-sinja
-sinje
-sinji
 sinka
 sinko
 sinod
@@ -4158,9 +4011,6 @@ slika
 slina
 sliti
 slići
-sljed
-sljev
-sljez
 sloga
 slovo
 sluga
@@ -4406,8 +4256,6 @@ tanan
 tanga
 tango
 tanin
-tanje
-tanji
 tanki
 tanko
 tapir
@@ -4446,7 +4294,6 @@ tempo
 tenar
 tenda
 tenis
-tenja
 tenor
 tepav
 tepen
@@ -4583,7 +4430,6 @@ trica
 trice
 trija
 triko
-trilj
 triol
 trion
 tripa
@@ -4592,10 +4438,8 @@ trist
 trkač
 trkin
 trkom
-trlja
 trnac
 trnci
-trnje
 trnov
 troje
 trola
@@ -4628,7 +4472,6 @@ trčki
 tržan
 trživ
 tržni
-tuanj
 tuber
 tubul
 tubus
@@ -4643,7 +4486,6 @@ tumač
 tumbe
 tumor
 tunel
-tunja
 tupan
 tupav
 tupik
@@ -4677,7 +4519,6 @@ ubran
 ubrus
 ubrzo
 udaja
-udalj
 udana
 udani
 udata
@@ -4690,9 +4531,7 @@ udjel
 udost
 udova
 ufati
-ugalj
 ugaon
-uginj
 uglas
 ugled
 ugnut
@@ -4716,13 +4555,6 @@ ulija
 uliji
 ulika
 uliti
-uljan
-uljar
-uljen
-uljev
-uljez
-uljni
-uljud
 ulkus
 uloga
 ulozi
@@ -4892,7 +4724,6 @@ valić
 valni
 valno
 valov
-vanje
 vapaj
 vapno
 varan
@@ -5016,7 +4847,6 @@ volan
 volar
 volej
 volić
-volja
 volov
 vosak
 voska
@@ -5036,7 +4866,6 @@ vođin
 vožen
 vraga
 vrana
-vranj
 vrapč
 vrata
 vrati
@@ -5128,7 +4957,6 @@ zamot
 zamro
 zanat
 zanes
-zanje
 zanos
 zaova
 zapad
@@ -5191,7 +5019,6 @@ zebić
 zebra
 zefir
 zelen
-zelje
 zeman
 zemni
 zemun
@@ -5227,7 +5054,6 @@ znati
 zoban
 zoben
 zobun
-zolja
 zombi
 zorak
 zoril
@@ -5240,12 +5066,10 @@ zreli
 zrelo
 zreti
 zrija
-zrinj
 zriti
 zrnat
 zrnaš
 zrnce
-zrnje
 zubac
 zubar
 zubat
@@ -5372,7 +5196,6 @@ zvuči
 čičak
 čišći
 čižak
-čkalj
 čoban
 čohan
 čokot
@@ -5480,7 +5303,6 @@ zvuči
 šijun
 šikar
 šilok
-šinje
 šipak
 šipka
 šipke
@@ -5522,25 +5344,17 @@ zvuči
 šlaga
 šlajm
 šlapa
-šljam
-šljem
 šnala
 šnaps
-šnjur
 šnpan
 šobot
 šofer
 šogor
 šojka
-šolja
-šolje
-šonja
-šonjo
 špaga
 špajz
 špica
 špigl
-špilj
 šport
 špula
 šrafa
@@ -5584,7 +5398,6 @@ zvuči
 žalim
 žalit
 žamor
-žanje
 žaoka
 žaran
 žarač
@@ -5599,7 +5412,6 @@ zvuči
 žedan
 žegar
 žeguć
-želja
 ženik
 ženin
 ženka
@@ -5616,7 +5428,6 @@ zvuči
 žilan
 žilav
 žilet
-žilja
 žilni
 žitan
 žitar
@@ -5634,7 +5445,6 @@ zvuči
 žišak
 žižak
 žlica
-žljeb
 žmara
 žnora
 žohar
@@ -5644,7 +5454,6 @@ zvuči
 žudni
 žudno
 žuhak
-žulja
 župan
 župni
 žuran

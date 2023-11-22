@@ -24,7 +24,7 @@ git https://github.com/ArminK18/Wordle.git
 
 2. Run the script `wordle.py`:
 ```bash
-python wordle.py
+python wordleHR.py
 ```
 
 3. Play!

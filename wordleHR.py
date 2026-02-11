@@ -5,7 +5,7 @@ def main():
     init()
 
     # Read words from file
-    def read_words(filename):
+    def read_words(filename: str) -> list[str]:
         try:
             with open(filename, 'r', encoding='utf-8') as f:
                 return [word.lower() for line in f for word in line.strip().split()]
@@ -17,38 +17,38 @@ def main():
             return []
         
     # Color map for coloring the letters
-    color_map = {True: Fore.GREEN, False: Fore.YELLOW}
+    color_map: dict[bool, str] = {True: Fore.GREEN, False: Fore.YELLOW}
 
     # Check if the given letter is in the word
-    def check_letter(given_word, word_letters):
+    def check_letter(given_word: str, word_letters: list) -> None:
         for given_letter, word_letter in zip(given_word, word_letters):
             color = color_map[given_letter == word_letter] if given_letter in word_letters else Fore.WHITE
             print(f"{color}{given_letter}{Style.RESET_ALL}", end=' ')
         print("\n")
     
     # Filenames for words and valid words
-    filename_words = "words.txt"
-    filename_valid_words = "valid_words.txt"
+    filename_words: str = "words.txt"
+    filename_valid_words: str = "valid_words.txt"
 
     # Read words and valid words and stores them in a list and in a set
-    words = [word for word in read_words(filename_words) if len(word) == 5 and word.isalpha()]
-    valid_words = set(word for word in read_words(filename_valid_words) if len(word) == 5 and word.isalpha())
+    words: list[str] = [word for word in read_words(filename_words) if len(word) == 5 and word.isalpha()]
+    valid_words: set = set(word for word in read_words(filename_valid_words) if len(word) == 5 and word.isalpha())
 
     # Check if list is not empty and choose a random word from the list
     if not words or not valid_words:
         print(f"{Fore.RED}Error{Style.RESET_ALL}: The {'words file' if not words else 'valid words file'} is empty or does not contain any valid words.")
         return
-    word = random.choice(words)
-    word_letters = list(word)
+    word: str = random.choice(words)
+    word_letters: list[str] = list(word)
 
-    tries = 0
-    used_letters = set()
+    tries: int = 0
+    used_letters: set = set()
 
     print(f"Enter a 5-letter {Style.BRIGHT}Croatian{Style.RESET_ALL} word (enter {Fore.CYAN}Q{Style.RESET_ALL} to give up)")
 
     # Do until the word is guessed or the user gives up
     while True:
-        input_word = input().lower()
+        input_word: str = input().lower()
 
         # If the user gives up, print the word and break
         if input_word == 'q':
